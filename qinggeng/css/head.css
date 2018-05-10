@@ -1,0 +1,22 @@
+#head {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 24px;
+    background: #fff;
+    height:82px;
+   
+}
+.head-box{
+    height:102px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top:0;
+    bottom: 0;
+    z-index: 1030;
+    
+}
+#head .logo img {
+    height: 70px;
+    margin-bottom: 14px;
+}
